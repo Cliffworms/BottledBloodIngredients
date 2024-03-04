@@ -1,0 +1,11 @@
+{
+    "ModTitle": "Bottled Blood Ingredients",
+    "ModVersion": "1.0.0",
+    "ModAuthor": "Cliffworms",
+    "DFUnity_Version": "1.0.0",
+    "ModDescription": "Replaces the world and icon textures of Orc's Blood, Werewolf's Blood, Troll's Blood and Giant Blood with a previously unused bottled texture.",
+    "GUID": "2e0a9cf5-9702-4722-8471-00171196cb5a",
+    "Files": [
+        "Assets/Game/Mods/WIPBloodReplace/ItemTemplates.json"
+    ]
+}
